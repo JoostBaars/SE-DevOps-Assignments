@@ -109,17 +109,17 @@ components:
           type: string
         last_name:
           type: string
-        grade_records:
+        gradeRecords:
           type: array
           items:
             type: object
       example:
-        student_id: 0.8008281904610115
+        student_id: 0.80082819046101150206595775671303272247314453125
         last_name: last_name
-        grade_records:
-        - {}
-        - {}
         first_name: first_name
+        gradeRecords:
+        - {}
+        - {}
     GradeRecord:
       required:
       - grade
