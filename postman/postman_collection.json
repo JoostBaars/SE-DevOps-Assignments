@@ -1171,7 +1171,7 @@
 									"    //     pm.expect(elapsed).to.be.below(100);",
 									"    // });",
 									"    // setTimeout(() => { console.log(\"waiting!\"); }, 10000);",
-									"    postman.setNextRequest(\"13.Find_random_student\");",
+									"    postman.setNextRequest(\"10.Add a new random student\");",
 									"}",
 									"",
 									"    ",
